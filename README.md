@@ -21,4 +21,7 @@ The first few sections can be brief, but the last two sections require you to re
 
 Let's be real. Sometimes you don't get any real "insights". Don't make up stuff (lies) to make it look like you've completed the work. Do you think that's what your company will want?
 
+Do each week's entry as a new markdown (.md) file.
+For each prac submission, submit the link directly to the week's entry (not the repo, but the page).
+
 https://github.com/CP3402/subject/wiki/Learning-Journals
