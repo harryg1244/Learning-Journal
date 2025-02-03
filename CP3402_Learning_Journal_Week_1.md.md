@@ -1,7 +1,14 @@
-# CP3402 Learning Journal - Harrison Groemer - Week 1
+# CP3402 Learning Journal - Harrison Groemer
 
-**Estimated Hours:** 5 hours  
-I spent about 5 hours of my own time this week on this subject, not including time spent on the assignment.
+**Week 1:**
+
+## Learning Activities & Resources:
+
+- I did not attend the weekly Seminar, although I did engage with forums for expert advice and assistance. I also followed the tutorials provided for the installation of Visual Code Studio and the set up of Git hosting.
+
+## Estimated Hours: 5 hours  
+
+- I spent about 5 hours of my own time this week on this subject, not including time spent on the assignment.
 
 ## Content Insights
 
