@@ -1,6 +1,6 @@
 # CP3402 Learning Journal - Harrison Groemer
 
-**Week 1:**
+**Week 1**
 
 ## Learning Activities & Resources:
 
